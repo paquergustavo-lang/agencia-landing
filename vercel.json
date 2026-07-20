@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npm install && npm run build",
+  "outputDirectory": ".next",
+  "nodeVersion": "18.17.0"
+}
